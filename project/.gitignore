@@ -7,12 +7,6 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-# Ignorar a pasta '.bolt'
-.bolt/
-
-# Ignorar a pasta 'public'
-public/
-
 # Ignorar a pasta 'node_modules'
 node_modules/
 
